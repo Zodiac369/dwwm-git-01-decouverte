@@ -5,7 +5,9 @@
 ##### Blue Öyster Cult (BÖC) est un groupe américain de hard rock, originaire de Long Island, New York. Leur style musical oscille entre le hard rock, le heavy metal, et le rock psychédélique. 
 
 ## Discographie 
-#####     1972 : Blue Öyster Cult
+#####     
+    1972 : Blue Öyster Cult
+    
     1973 : Tyranny & Mutation
     
     1974 : Secret Treaties
@@ -37,4 +39,4 @@
 ## Récompenses 
 
 ## Tournées 
-### 1976 : TEXAS 
+###1976 : TEXAS 
