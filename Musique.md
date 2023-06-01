@@ -7,7 +7,7 @@
 ## Discographie 
 #####     
     1972 : Blue Öyster Cult
-    
+
     1973 : Tyranny & Mutation
     
     1974 : Secret Treaties
@@ -38,5 +38,3 @@
 
 ## Récompenses 
 
-## Tournées 
-###1976 : TEXAS 
