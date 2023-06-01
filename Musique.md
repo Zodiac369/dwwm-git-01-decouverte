@@ -34,6 +34,3 @@
     
     2020 : The Symbol Remains
 
-## Récompenses
-
-Meilleur album 1976
