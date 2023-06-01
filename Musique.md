@@ -34,7 +34,3 @@
     
     2020 : The Symbol Remains
 
-## Récompenses 
-
-## Tournées 
-### 1976 : TEXAS 
